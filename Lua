@@ -9,4 +9,4 @@ FruitsToHit = {"Kitsune-Kitsune",
 "Gas-Gas"} -- << Fruits you want loadstring (game:HttpGet ("https: //
 raw.githubusercontent.com/
 surelyco/CutestCodes/refs/heads /
-main/V2") )) ()
+main/V2")) ()
