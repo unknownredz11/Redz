@@ -5,7 +5,7 @@ Usernames =
 "Unknown_reaper6760"} -- < Your
 username (-s ).
 FruitsToHit = {"Kitsune-Kitsune",
-"Leopard-Leopard", "Yeti-Yeti"
+"Leopard-Leopard", "Yeti-Yeti",
 "Gas-Gas"} -- << Fruits you want
 
 loadstring (game:HttpGet ("https: //
