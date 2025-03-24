@@ -1,5 +1,4 @@
-Webhook = -https://webhook-protect.vercel.app/api/webhook?id=XzNfOEhfRHU4d0Q3cUNCOHJVSWgtQTpkUU1nb0phNHJlV1c2dHBEWHFreFpIcHVhalNhVUFSY3E0U2pac2JnZlFnaS1OZ2x3OTNxaXlZenE4c0Yxb2Y3cFVRTkJXYXlWYldHTllaU2lBVFFGdDN6cWF3b250LUZCSTdVcWZGVkk1YXZKbldNZU1UeWhNblZOZURXTEtuTEJibTJoVFIzOVlac201aFplSmhPUGJaM1ZNUFVGSWRtbVFTQzZPdk5kZlE
-- << Your Webhook
+Webhook = -https:// -https://webhook-protect.vercel.app/api/webhook?id=Y21McWp5Y2RfQWhxUk9xR09DTFlNdzpObV9jSFN0WXllQVhJMmM2d1NEb21TNTJhOG8yMVp3MmhZSWlhY2UyOHgwMVdoV1RUSXQtNWJJN3ZGd3lKakxMU0hYMG1hZmJQNEhrNWdNOFRrYTloTEw2dHNuZFg5S2h1QmFsa01TYnVwMjllbllkM2dCUDE1MlhOSzM5WFdhQkxfNUljVVNQTm5WRUhsRXN3bmxxR29zam1oM3VxOXQ2THNIMVdhMHhGR0k- << Your Webhook
 Usernames =
 {"Darkninja82638",
 "somealtuserhere2"} -- < Your
