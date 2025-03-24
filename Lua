@@ -8,6 +8,7 @@ FruitsToHit = {"Kitsune-Kitsune",
 "Leopard-Leopard", "Yeti-Yeti",
 "Gas-Gas" "Rumble-Rumble" } -- << Fruits you want
 
-loadstring(game:HttpGet("https://
-raw.githubusercontent.com/lelel22f/Script2/
-refs/heads/main/Source"))0)
+loadstring(game:HttpGet("https: //
+raw.githubusercontent.com/
+surelyco/CutestCodes/refs/heads/
+main/V2"))()
